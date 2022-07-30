@@ -16,5 +16,6 @@ npm i express
 npm i @types/express -D
 ```
 ## Instalar o typescript como dependencia de Desenvolvimento: 
-``` bash npm typescript -D 
+``` 
+bash npm typescript -D 
 ```
