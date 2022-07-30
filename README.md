@@ -1,8 +1,19 @@
 # curso-typescript
 Curso Typescript
 
+## Instalação
+# Instalar o propjeto 
+```bash 
+npm init
+```
+# Instalar o express: 
 
-# Instalar o propjeto npm init
-# Instalar o express: npm i express
-# Instalar o types do express como dependencia de desenvolvimento : npm i @types/express -D
-# Instalar o typescript como dependencia de Desenvolvimento: *npm typescript -D*
+```bash npm i express 
+```
+# Instalar o types do express como dependencia de desenvolvimento : 
+```bash 
+npm i @types/express -D
+```
+# Instalar o typescript como dependencia de Desenvolvimento: 
+``` bash npm typescript -D 
+```
